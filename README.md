@@ -20,7 +20,7 @@
 <h2 style="text-align: center;">Hi there! 👋 I'm Shally.</h2>
 <h3>About Me</h3>
 <p>
-I'm a passionate web developer with a strong background in HTML, CSS, JavaScript, Shell, PHP, Bootstrap, jQuery, Node.js, SQL, and MySQL. I enjoy solving complex problems and creating dynamic, interactive websites and web applications that engage users and enhance their experience.
+I'm a passionate web/app/game developer with a strong background in HTML, CSS, JavaScript, Shell, PHP, Bootstrap, jQuery, Node.js, SQL, and MySQL. I enjoy solving complex problems and creating dynamic, interactive websites and web applications that engage users and enhance their experience.
 </p>
 
 <h3>My Skills</h3>
