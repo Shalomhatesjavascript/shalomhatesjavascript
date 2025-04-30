@@ -58,8 +58,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalom-geek-ng&show_icons=true&locale=en&layout=compact" alt="shalom-geek-ng" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalom-geek-ng&show_icons=true&locale=en&layout=compact" alt="shalomhatesjavascript" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalom-geek-ng&show_icons=true&locale=en" alt="shalom-geek-ng" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalom-geek-ng&show_icons=true&locale=en" alt="shalomhatesjavascript" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalom-geek-ng&" alt="shalom-geek-ng" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalom-geek-ng&" alt="shalomhatesjavascript" /></p>
