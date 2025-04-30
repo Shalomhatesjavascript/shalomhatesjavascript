@@ -4,8 +4,6 @@
 </p>
 <h3 align="center">Software Engineer, Game Developer, IT Specialist</h3>
 
-<img align="right" width="400" src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif">
-
 <!-- GitHub Profile Header Image -->
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
 
