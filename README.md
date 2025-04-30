@@ -8,7 +8,7 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=Tam-BobManuel&color=blue)
+![](https://komarev.com/ghpvc/?username=shalomhatesjavascript&color=blue)
 
 <!-- Follow Me Badge -->
 <a href="https://twitter.com/tam_webdev">
