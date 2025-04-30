@@ -10,10 +10,7 @@
 <!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=shalomhatesjavascript&color=blue)
 
-<!-- Follow Me Badge -->
-<a href="https://twitter.com/tam_webdev">
-  <img src="https://img.shields.io/twitter/follow/tam_webdev?logo=twitter&style=for-the-badge" alt="tam_webdev" />
-</a>
+
 <br>
 
 <!-- About Me -->
